@@ -1,11 +1,5 @@
-## Hi there 👋
-
-<!--
-**smiling25261/smiling25261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-🚀 About Me
-
+## Hi 👋
+🚀 About me:
 I am currently pursuing B.Tech. in Computer Science Engineering, where I focus on building efficient, scalable, and AI-driven applications. My academic journey has given me a strong foundation in data structures, algorithms, and software development best practices. I'm particularly interested in shining out with new projects and learning new technologies.
 
 💻 My Tech Stack: Python, Java
